@@ -45,11 +45,9 @@
 }
 
 .albums img {
-    width: 100%;
-    border-radius: 10px;
+  width: 100%;
+  border-radius: 10px;
 }
-
-
 
 /* FOR MOBILE */
 @media (max-width: 767px) {
@@ -67,16 +65,12 @@
     font-size: 16px !important;
   }
   .google_map iframe {
-    display: flex;
-    justify-content: center;
-    align-self: center;
     width: 100vw;
-    padding: 0em 2em 2em 0em;
+    padding: 1em 1em 5em 0em;
   }
   .albums_be {
     font-family: "Great Vibes", cursive !important;
     font-size: 35px !important;
     margin-top: 5vw !important;
   }
-  
 }
