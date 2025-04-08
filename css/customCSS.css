@@ -48,7 +48,9 @@
   width: 100%;
   border-radius: 10px;
 }
-
+.google_map iframe {
+    height: 50vh;
+}
 /* FOR MOBILE */
 @media (max-width: 767px) {
   .thiep {
