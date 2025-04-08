@@ -1,0 +1,79 @@
+.thiepmoi {
+  margin-bottom: 5px !important;
+}
+.mungthoinoi {
+  font-size: 40px;
+}
+.user_name {
+  font-size: 18px;
+}
+.user_name:hover {
+  color: #ff0000;
+}
+
+.birthday_img img {
+  width: 75px;
+  position: absolute;
+  top: 0;
+  right: 15px;
+  z-index: 99;
+}
+
+.ten_be {
+  font-size: 35px !important;
+  margin-bottom: 0;
+}
+
+.thiep {
+  font-family: "Great Vibes", cursive !important;
+  font-size: 50px !important;
+}
+.loi_moi {
+  margin: 10%;
+}
+.loi_moi p {
+  font-size: 17px !important;
+  margin: 0 !important;
+}
+.thoi_gian {
+  font-size: 20px !important;
+  border-radius: 15px;
+  border: 2px dashed #ffffff;
+}
+.su_hien_dien {
+  font-size: 15px !important;
+}
+
+.albums img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+
+/* FOR MOBILE */
+@media (max-width: 767px) {
+  .thiep {
+    font-size: 40px !important;
+  }
+  .loi_moi {
+    margin: 0 10%;
+  }
+  .loi_moi p {
+    font-size: 15px !important;
+  }
+
+  .thoi_gian {
+    font-size: 16px !important;
+  }
+  .google_map iframe {
+    width: 100vw;
+    padding: 0em 2em 2em 0em;
+  }
+  .albums_be {
+    font-family: "Great Vibes", cursive !important;
+    font-size: 35px !important;
+    margin-top: 5vw !important;
+  }
+  
+}
