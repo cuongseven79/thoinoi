@@ -67,7 +67,8 @@
     font-size: 16px !important;
   }
   .google_map iframe {
-    padding: 1em 1em 5em 0em;
+    width: 100vw;
+    height: 40vh;
   }
   .albums_be {
     font-family: "Great Vibes", cursive !important;
