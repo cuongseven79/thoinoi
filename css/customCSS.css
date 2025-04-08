@@ -67,6 +67,9 @@
     font-size: 16px !important;
   }
   .google_map iframe {
+    display: flex;
+    justify-content: center;
+    align-self: center;
     width: 100vw;
     padding: 0em 2em 2em 0em;
   }
